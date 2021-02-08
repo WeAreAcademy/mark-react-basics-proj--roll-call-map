@@ -6,8 +6,8 @@
 
 This project builds on the following two prior projects:
 
-- [https://github.com/WeAreAcademy/mark-react-proj--roll-call](Roll Call)
-- [https://github.com/WeAreAcademy/mark-react-basics-proj--using-map.git](Using Map)
+- [Roll Call](https://github.com/WeAreAcademy/mark-react-proj--roll-call)
+- [Using map](https://github.com/WeAreAcademy/mark-react-basics-proj--using-map.git)
 
 This repo doesn't need to be cloned - it's an extension to your previous Roll Call repo.
 
